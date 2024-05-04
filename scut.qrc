@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/校徽.jpg</file>
+        <file>image/校训.jpg</file>
+        <file>image/校门.jpg</file>
+        <file>image/牌坊.jpg</file>
+        <file>image/一号楼.jpg</file>
+        <file>image/钟楼.jpg</file>
+        <file>image/中山像.jpg</file>
+        <file>image/图书馆.jpg</file>
+        <file>image/东湖.jpg</file>
+        <file>image/西湖.jpg</file>
+        <file>image/情人岛.jpg</file>
+        <file>image/刘义亭.jpg</file>
+        <file>image/励吾楼.jpg</file>
+        <file>image/博学楼.jpg</file>
+        <file>image/建筑学院.jpg</file>
+        <file>image/情人岛凉亭.jpg</file>
+        <file>image/数学学院.jpg</file>
+        <file>image/游泳池.jpg</file>
+        <file>image/西区运动场.jpg</file>
+        <file>image/西湖桥.jpg</file>
+        <file>image/母校月饼.jpg</file>
+        <file>image/大学城校区.jpg</file>
+    </qresource>
+</RCC>
